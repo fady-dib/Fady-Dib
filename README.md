@@ -1,4 +1,4 @@
-<div align="center" ><img width=100% src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif"/></div>
+<div align="center" ><img width=80% src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/></div>
 <h1 align="center">Hi 👋, I'm Fady Dib</h1>
 <h3 align="center">A Full Stack Developer from Lebanon</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fady-dib&label=Profile%20views&color=0e75b6&style=flat" alt="fady-dib" /> </p>
